@@ -1,4 +1,4 @@
-# 🔗 URL Extractor Pro
+# 🔗 Urexcli
 
 A powerful Python tool for extracting URLs from web pages with beautiful console output and dual export capabilities. Developed by **xlrsec**.
 
