@@ -25,16 +25,16 @@ A powerful Python tool for extracting URLs from web pages with beautiful console
 Download tool:
 
 
-git clone https://github.com/xlrsec/url-extractor-pro.git
-cd url-extractor-pro
+git clone https://github.com/pankajkryadav/urexcli.git
+cd urexcli
 🚀 Basic Usage
 
-python url_extractor.py -i input.txt -o categorized.txt -c combined.txt
+python urexcli.py -i input.txt -o categorized.txt -c combined.txt
 🛠️ Full Options
 
-$ python url_extractor.py --help
+$ python urexcli.py --help
 
-Usage: url_extractor.py [-h] -i INPUT [-o OUTPUT] [-c COMBINED]
+Usage: urexcli.py [-h] -i INPUT [-o OUTPUT] [-c COMBINED]
 
 Advanced URL Extractor Tool
 
@@ -85,6 +85,7 @@ Results may vary based on website structure
 Developed with ❤️ by xlrsec | 📄 License | 🐛 Report Issues
 
 
+
 This README features:
 - Clean, modern formatting with badges
 - Visual hierarchy with emojis
@@ -94,3 +95,5 @@ This README features:
 - Important notes section
 - Proper credit to developer
 - License information
+
+
