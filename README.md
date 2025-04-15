@@ -23,20 +23,19 @@ A powerful Python tool for extracting URLs from web pages with beautiful console
    ```bash
    pip install -r requirements.txt
 Download tool:
+`git clone https://github.com/pankajkryadav/urexcli.git`
+`cd url-extractor-pro`
 
-
-git clone https://github.com/pankajkryadav/urexcli.git
-cd urexcli
 🚀 Basic Usage
 
-python urexcli.py -i input.txt -o categorized.txt -c combined.txt
+`python urexcli.py -i input.txt -o categorized.txt -c combined.txt`
 🛠️ Full Options
 
-$ python urexcli.py --help
+```$ python urexcli.py --help```
 
-Usage: urexcli.py [-h] -i INPUT [-o OUTPUT] [-c COMBINED]
+```Usage: urexcli.py [-h] -i INPUT [-o OUTPUT] [-c COMBINED]```
 
-Advanced URL Extractor Tool
+```Advanced URL Extractor Tool```
 
 Options:
   -h, --help            show this help message and exit
