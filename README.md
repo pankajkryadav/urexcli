@@ -31,9 +31,9 @@ cd url-extractor-pro</pre>
 <pre>`python urexcli.py -i input.txt -o categorized.txt -c combined.txt`</pre>
 🛠️ Full Options
 
-<pre>$ python urexcli.py --help
+<pre>$ python urexcli.py --help</pre>
 
-Usage: urexcli.py [-h] -i INPUT [-o OUTPUT] [-c COMBINED]</pre>
+<pre>Usage: urexcli.py [-h] -i INPUT [-o OUTPUT] [-c COMBINED]</pre>
 
 CLI URL Extractor Tool
 
