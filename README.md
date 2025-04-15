@@ -23,7 +23,7 @@ A powerful Python tool for extracting URLs from web pages with beautiful console
    ```bash
    pip install -r requirements.txt
 Download tool:
-`git clone https://github.com/pankajkryadav/urexcli.git`
+<pre>```git clone https://github.com/pankajkryadav/urexcli.git``` </pre>
 `cd url-extractor-pro`
 
 🚀 Basic Usage
