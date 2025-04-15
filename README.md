@@ -26,16 +26,16 @@ Download tool:
 <pre>git clone https://github.com/pankajkryadav/urexcli.git
 cd url-extractor-pro</pre>
 
-🚀 Basic Usage
+🚀 **Basic Usage**
 
 <pre>`python urexcli.py -i input.txt -o categorized.txt -c combined.txt`</pre>
-🛠️ Full Options
+**🛠️ Full Options**
 
 <pre>$ python urexcli.py --help</pre>
 
 <pre>Usage: urexcli.py [-h] -i INPUT [-o OUTPUT] [-c COMBINED]</pre>
 
-CLI URL Extractor Tool
+**CLI URL Extractor Tool**
 
 <pre>Options:
   -h, --help            show this help message and exit
@@ -45,8 +45,8 @@ CLI URL Extractor Tool
                         Categorized output file (default: output.txt)
   -c COMBINED, --combined COMBINED
                         Combined output file (all URLs in one list)</pre>
-📂 Arguments Details
-Flag	Description	Example
+**📂 Arguments Details**
+`<Flag	Description	Example`
 <pre>-i	Input file with URLs (required)	-i urls.txt
 -o	Categorized output (groups by source domain)	-o domain_sorted.txt
 -c	Combined output (all URLs in single file)	-c all_urls.txt</pre>
@@ -61,8 +61,8 @@ Flag	Description	Example
 - Combined results: combined.txt
 Colors will automatically work in most terminals (Windows users: run python -m pip install colorama first)</pre>
 
-📝 Notes
-Input file should contain one URL per line
+**📝 Notes**
+<pre>Input file should contain one URL per line
 
 Handles both formatted (https://) and unformatted (example.com) URLs
 
@@ -70,10 +70,10 @@ Timeout set to 10 seconds per request
 
 Results include both internal and external links
 
-Duplicate URLs in combined output are automatically removed
+Duplicate URLs in combined output are automatically removed</pre>
 
-🤝 Assumptions
-Input URLs are publicly accessible
+**🤝 Assumptions**
+<Input URLs are publicly accessible
 
 Websites don't block scrapers
 
@@ -81,18 +81,7 @@ No JavaScript rendering required
 
 Results may vary based on website structure
 
-Developed with ❤️ by xlrsec | 📄 License | 🐛 Report Issues
+Developed with ❤️ by xlrsec
 
-
-
-This README features:
-- Clean, modern formatting with badges
-- Visual hierarchy with emojis
-- Clear installation/usage instructions
-- Responsive tables
-- Error/output examples
-- Important notes section
-- Proper credit to developer
-- License information
 
 
