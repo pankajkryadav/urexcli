@@ -73,15 +73,16 @@ Results include both internal and external links
 Duplicate URLs in combined output are automatically removed</pre>
 
 **🤝 Assumptions**
-<Input URLs are publicly accessible
 
-Websites don't block scrapers
+**Input URLs are publicly accessible**
 
-No JavaScript rendering required
+**Websites don't block scrapers**
 
-Results may vary based on website structure
+**No JavaScript rendering required**
 
-Developed with ❤️ by xlrsec
+**Results may vary based on website structure**
+
+**Developed with ❤️ by xlrsec**
 
 
 
