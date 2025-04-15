@@ -37,29 +37,29 @@ cd url-extractor-pro</pre>
 
 CLI URL Extractor Tool
 
-<pre>`Options:
+<pre>Options:
   -h, --help            show this help message and exit
   -i INPUT, --input INPUT
                         Input text file containing URLs (required)
   -o OUTPUT, --output OUTPUT
                         Categorized output file (default: output.txt)
   -c COMBINED, --combined COMBINED
-                        Combined output file (all URLs in one list)`</pre>
+                        Combined output file (all URLs in one list)</pre>
 📂 Arguments Details
 Flag	Description	Example
-`-i	Input file with URLs (required)	-i urls.txt
+<pre>-i	Input file with URLs (required)	-i urls.txt
 -o	Categorized output (groups by source domain)	-o domain_sorted.txt
--c	Combined output (all URLs in single file)	-c all_urls.txt`
+-c	Combined output (all URLs in single file)	-c all_urls.txt</pre>
 🎨 Sample Output
 
-`Processing URLs: 100%|██████████| 10/10 [00:15<00:00,  1.55s/url]
+<pre>Processing URLs: 100%|██████████| 10/10 [00:15<00:00,  1.55s/url]
   ✔ Success: 8 URLs processed
   ✖ Errors: 2 URLs failed`
 
 `Processing complete!`
-`- Categorized results: categorized.txt`
-`- Combined results: combined.txt
-Colors will automatically work in most terminals (Windows users: run python -m pip install colorama first)`
+- Categorized results: categorized.txt
+- Combined results: combined.txt
+Colors will automatically work in most terminals (Windows users: run python -m pip install colorama first)</pre>
 
 📝 Notes
 Input file should contain one URL per line
