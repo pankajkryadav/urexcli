@@ -72,7 +72,6 @@ Results include both internal and external links
 
 Duplicate URLs in combined output are automatically removed</pre>
 
-**🤝 Assumptions**
 
 **Input URLs are publicly accessible**
 
