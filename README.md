@@ -28,7 +28,7 @@ cd url-extractor-pro</pre>
 
 🚀 **Basic Usage**
 
-<pre>`python urexcli.py -i input.txt -o categorized.txt -c combined.txt`</pre>
+<pre>python urexcli.py -i input.txt -o categorized.txt -c combined.txt</pre>
 **🛠️ Full Options**
 
 <pre>$ python urexcli.py --help</pre>
