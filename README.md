@@ -35,31 +35,31 @@ Download tool:
 
 ```Usage: urexcli.py [-h] -i INPUT [-o OUTPUT] [-c COMBINED]```
 
-```Advanced URL Extractor Tool```
+```CLI URL Extractor Tool```
 
-Options:
+`Options:
   -h, --help            show this help message and exit
   -i INPUT, --input INPUT
                         Input text file containing URLs (required)
   -o OUTPUT, --output OUTPUT
                         Categorized output file (default: output.txt)
   -c COMBINED, --combined COMBINED
-                        Combined output file (all URLs in one list)
+                        Combined output file (all URLs in one list)`
 📂 Arguments Details
 Flag	Description	Example
--i	Input file with URLs (required)	-i urls.txt
+`-i	Input file with URLs (required)	-i urls.txt
 -o	Categorized output (groups by source domain)	-o domain_sorted.txt
--c	Combined output (all URLs in single file)	-c all_urls.txt
+-c	Combined output (all URLs in single file)	-c all_urls.txt`
 🎨 Sample Output
 
-Processing URLs: 100%|██████████| 10/10 [00:15<00:00,  1.55s/url]
+`Processing URLs: 100%|██████████| 10/10 [00:15<00:00,  1.55s/url]
   ✔ Success: 8 URLs processed
-  ✖ Errors: 2 URLs failed
+  ✖ Errors: 2 URLs failed`
 
-Processing complete!
-- Categorized results: categorized.txt
-- Combined results: combined.txt
-Colors will automatically work in most terminals (Windows users: run python -m pip install colorama first)
+`Processing complete!`
+`- Categorized results: categorized.txt`
+`- Combined results: combined.txt
+Colors will automatically work in most terminals (Windows users: run python -m pip install colorama first)`
 
 📝 Notes
 Input file should contain one URL per line
