@@ -1,6 +1,6 @@
 # 🔗 Urexcli
 
-A powerful Python tool for extracting URLs from web pages with beautiful console output and dual export capabilities. Developed by **xlrsec**.
+A powerful Python tool for extracting URLs from web pages with beautiful console output and dual export capabilities. Developed by **PankajKrYadav**.
 
 ![Demo](https://img.shields.io/badge/Demo-Coming_Soon-blue) 
 ![Python](https://img.shields.io/badge/Python-3.6%2B-blue)
