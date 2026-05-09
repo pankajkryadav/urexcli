@@ -81,7 +81,7 @@ Duplicate URLs in combined output are automatically removed</pre>
 
 **Results may vary based on website structure**
 
-**Developed with ❤️ by xlrsec**
+**Developed with ❤️ by PankajKrYadav**
 
 
 
